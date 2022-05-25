@@ -1,6 +1,6 @@
 ### Salve! 🤟 Me chamo Evandro de Sousa! 
 
-- 🔭 Ainda não trabalho como programador. Esse é meu foco no momento! 🔥
+- 🔭 Ainda não trabalho como programador. Foco 100% em me especializar na área! 🔥
 - 🌱 Focado em aprender e me aprimorar em HTML, CSS e Javascript
 - ⚡ Fun fact: As vezes faço live de jogos, e curto muito desenhar 😉
 
