@@ -37,3 +37,6 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<p align="center">
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=vandynM&layout=wide&show_reply=off&show_retweet=off" />
