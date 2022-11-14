@@ -1,7 +1,7 @@
 ### Salve! 🤟 Me chamo Evandro de Sousa! 
 
 - 🔭 Estagiário de Desenvolvimento de Sistemas FullStack! 🔥
-- 🌱 Focado em aprender e me aprimorar minhas habilidades
+- 🌱 Focado em aprender e aprimorar minhas habilidades
 - ⚡ Fun fact: As vezes faço live de jogos, e curto muito desenhar 😉
 
 
