@@ -1,7 +1,7 @@
 ### Salve! 🤟 Me chamo Evandro de Sousa! 
 
-- 🔭 Ainda não trabalho como programador. Foco 100% em me especializar na área! 🔥
-- 🌱 Focado em aprender e me aprimorar em HTML, CSS e Javascript
+- 🔭 Estagiário de Desenvolvimento de Sistemas FullStack! 🔥
+- 🌱 Focado em aprender e me aprimorar minhas habilidades
 - ⚡ Fun fact: As vezes faço live de jogos, e curto muito desenhar 😉
 
 
