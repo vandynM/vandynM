@@ -1,6 +1,6 @@
 ### Salve! 🤟 Me chamo Evandro de Sousa! 
 
-- 🔭 Desenvolvimento .NET Jr! 🔥
+- 🔭 Desenvolvedor .NET Jr! 🔥
 - 🌱 Focado em aprender e aprimorar minhas habilidades
 - ⚡ Fun fact: As vezes faço live de jogos, e curto muito desenhar 😉
 
